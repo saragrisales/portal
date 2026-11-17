@@ -1,0 +1,12 @@
+.tarjeta {
+    border: 6px solid #d89cb5;
+    padding: 1rem;
+  }
+.titulos {
+  font-family: Brush Script MT, Cursive;
+  color: #ee637b;
+}
+
+.fondo {
+  background-color: #f0e5e7;
+}
